@@ -11,7 +11,7 @@
   <li>3</li>
 </ul>
 
-<img src="IMG_6089.JPG" alt="ミク"title="39">
+<img src="/IMG_6089.JPG" alt="ミク"title="39">
 
 <a href="https://www.google.com">Google</a>
 
